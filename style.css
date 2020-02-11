@@ -1,0 +1,28 @@
+body {
+  height: '100%';
+  font-family: 'Frijole';
+  background: #faabe6;
+  background: linear-gradient(#fea5ff, #fffbe6, #fffbe6);
+
+}
+h2 {
+  color: #02c9ef;
+  text-shadow: 1px 1px white;
+  text-align: center;
+  vertical-align: middle;
+}
+#donut{
+  width: 100px;
+  height: auto;
+}
+p {
+  color: #02c9ef;
+}
+iframe{
+  display: block;
+  margin: 0 auto;
+}
+img{
+  height: 200px;
+  float: center;
+}
