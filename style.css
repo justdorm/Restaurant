@@ -3,17 +3,20 @@ body {
   font-family: 'Frijole';
   background: #faabe6;
   background: linear-gradient(#fea5ff, #fffbe6, #fffbe6);
+  <!-- add gradient from pink to creme-->
 
 }
 h2 {
   color: #02c9ef;
   text-shadow: 1px 1px white;
+  <!-- drop shadow -->
   text-align: center;
   vertical-align: middle;
 }
 #donut{
   width: 100px;
   height: auto;
+  <!-- resize picture -->
 }
 p {
   color: #02c9ef;
@@ -21,6 +24,7 @@ p {
 iframe{
   display: block;
   margin: 0 auto;
+  <!-- Centering Video -->
 }
 img{
   height: 200px;
